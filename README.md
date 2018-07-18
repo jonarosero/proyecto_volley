@@ -3,7 +3,7 @@ Proyecto de Metodologías Agiles con Scrum y tableros Kanban
 
 Documentación del proyecto:
 
-https://docs.google.com/document/d/1Spp62nz4KzOf8qGTRBTPh-ofz0wU411hKhHC-nPeEC8/edit
+https://docs.google.com/document/d/1W_o1z53lhHY6NBauxb2ko158FtOGKtyfVpmHFInQvds/edit?usp=sharing
 
 Página de desarrollo del proyecto:
 
